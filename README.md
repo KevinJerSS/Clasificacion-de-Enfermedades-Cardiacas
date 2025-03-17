@@ -33,7 +33,7 @@ El objetivo inicial era alcanzar un **95% de precisión**. Aunque el modelo tuvo
 
 ## Posibles Mejoras
 
-- **Probar modelos más avanzados** como XGBoost o Random Forest.
+- **Probar otros modelos como CatBoost o XGBoost.
 - **Optimizar hiperparámetros** con una búsqueda más exhaustiva.
 - **Recolección de más datos** para mejorar el aprendizaje del modelo.
 - **Ajustar el umbral de decisión** para minimizar errores críticos.
