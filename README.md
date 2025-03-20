@@ -42,5 +42,3 @@ El objetivo inicial era alcanzar un **95% de precisión**. Aunque el modelo tuvo
 
 El modelo desarrollado es una herramienta prometedora para la detección de enfermedades cardíacas. A pesar de que no alcanzó el umbral de precisión deseado, con ajustes y mejoras adicionales podría lograr un mejor desempeño.
 
-**¡Sigamos mejorándolo!**
-
